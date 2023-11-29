@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/basmalamohammed" target="_blank"><img src="https://img.shields.io/badge/-basmala%20mohammed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/basmalamohammed" target="_blank"><img src="https://img.shields.io/badge/-basmala%20mohammed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
